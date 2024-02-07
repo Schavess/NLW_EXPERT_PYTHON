@@ -1,0 +1,5 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true // Limpando a visão de pastas do projeto
+  }
+}
